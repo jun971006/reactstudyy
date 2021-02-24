@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/reactstart/node_modules
+/reactstart/.pnp
+/reactstart/.pnp.js
+
+# testing
+/reactstart/coverage
+
+# production
+/reactstart/build
+
+# misc
+/reactstart/.DS_Store
+/reactstart/.env.local
+/reactstart/.env.development.local
+/reactstart/.env.test.local
+/reactstart/.env.production.local
+
+/reactstart/npm-debug.log*
+/reactstart/yarn-debug.log*
+/reactstart/yarn-error.log*
